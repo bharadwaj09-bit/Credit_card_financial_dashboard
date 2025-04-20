@@ -9,7 +9,16 @@ quick, data-driven decisions.
 
 
 
-![Screenshot 2025-04-20 163132](https://github.com/user-attachments/assets/ff140594-a110-4d6f-9100-9113fd97fa9e)
+
+
+
+
+![Screenshot 2025-04-20 163630](https://github.com/user-attachments/assets/f948e408-7483-4ff0-af84-05cefef30b1d)
+
+
+
+
+
 
 
 
