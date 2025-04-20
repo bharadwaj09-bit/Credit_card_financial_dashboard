@@ -1,4 +1,4 @@
-📊 Project Overview – Credit Card Weekly Dashboard
+###📊 Project Overview – Credit Card Weekly Dashboard
 
 
 Developed a weekly dashboard to track and analyze key credit card metrics such as transactions, spending
