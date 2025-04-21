@@ -37,29 +37,19 @@ quick, data-driven decisions.
 Week-over-Week (WoW) Changes:
 
 Revenue grew by 28.8%
-
 Total Transaction Amount & Count saw a notable increase
-
 Customer count also increased
 
 Year-to-Date (YTD) Highlights:
-
 Revenue: $57M
-
 Interest Earned: $8M
-
 Transaction Volume: $46M
-
 Gender Contribution:
-
 Male: $31M
-
 Female: $26M
 
 Top Performing Cards: Blue & Silver (93% of total transactions)
 
 Top States: TX, NY, CA (68% contribution)
-
 Activation Rate: 57.5%
-
 Delinquency Rate: 6.06%
